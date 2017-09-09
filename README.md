@@ -8,6 +8,6 @@ In this example i have backup all our website content with zip format and stored
 
 1) I have created the file called “webbackup.sh” on bin directory and put the below code and the file permission should be 755 so that you can execute the file.
 
-2) Just run the file, it will be backup all website using compression and stored to specified location
+2) Just run the file, it will be backup all website in compressed format and stored to specified location
 
 3) To schedule the job at your convenient time, use cron
